@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TakePicture</string>
+    <string name="take_photo">Go to camera</string>
+    <string name="image_view_content_description">Image</string>
+    <string name="click_to_take_photo">Click on the button to take photo and display it on the screen after taking it</string>
 </resources>
